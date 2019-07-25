@@ -1,0 +1,19 @@
+.purinple-title{
+	height: 60px;
+	width: 20%;
+	border-left: 6px solid black;
+	margin-left: 0;
+	padding-left: 30px;
+}
+
+.purinple-title p{
+	font-size: 20px;
+	color: black;
+	font-family: "微软雅黑";
+	margin-bottom: 5px;
+}
+
+.purinple-content{
+	margin-top: 40px;
+	padding: 0 50px 0 50px;
+}
